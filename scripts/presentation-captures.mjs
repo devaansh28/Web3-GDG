@@ -1,0 +1,13 @@
+import {createRequire} from 'node:module';
+import fs from 'node:fs/promises';
+const require=createRequire('/Users/devaansh28/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/package.json');const {chromium}=require('playwright');
+const browser=await chromium.launch({executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',headless:true});
+const c=await browser.newContext({viewport:{width:1440,height:1000},reducedMotion:'reduce'});await c.addInitScript(()=>{Element.prototype.requestPointerLock=()=>Promise.reject(new Error('Disabled for QA'));Element.prototype.setPointerCapture=()=>{};Element.prototype.releasePointerCapture=()=>{};Document.prototype.exitPointerLock=()=>{};});
+const p=await c.newPage();await p.goto('http://localhost:4500');await p.evaluate(()=>document.fonts.ready);
+await fs.mkdir('lab/presentation',{recursive:true});
+async function capture(name,selector){await p.locator(selector).scrollIntoViewIfNeeded();await p.waitForTimeout(350);await p.locator(selector).screenshot({path:`lab/presentation/${name}.png`});}
+await capture('intro','.intro');await capture('community','.community-moment');await capture('faq','.faq');await capture('partners','.partners');await capture('involved','.involved');
+await p.locator('[data-track=Blockchain]').click();await p.locator('[data-track=Security]').click();await capture('passport','#passport');
+await p.locator('#passport-dock').click();await p.locator('input[value=Builder]').check();await capture('step-one','#registration-dialog');await p.locator('#registration-next').click();await p.locator('#guest-name').fill('Alex Morgan');await p.locator('#guest-email').fill('alex@example.com');await p.locator('#preview-consent').check();await capture('step-two','#registration-dialog');await p.locator('#registration-step-two button[type=submit]').click();await capture('step-three','#registration-dialog');await p.keyboard.press('Escape');
+await p.setViewportSize({width:390,height:844});await p.evaluate(()=>scrollTo({top:0,behavior:'instant'}));await p.screenshot({path:'lab/presentation/mobile-home.png'});await p.locator('#passport').scrollIntoViewIfNeeded();await p.screenshot({path:'lab/presentation/mobile-passport.png'});await p.locator('#speakers').evaluate(el=>window.scrollTo({top:el.offsetTop-90,behavior:'instant'}));await p.waitForTimeout(300);await p.screenshot({path:'lab/presentation/mobile-speakers.png'});await p.locator('.closing .join-button').click();await p.screenshot({path:'lab/presentation/mobile-form.png'});
+await browser.close();console.log('Presentation screenshots ready.');

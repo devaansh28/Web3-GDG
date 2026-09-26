@@ -1,0 +1,741 @@
+{
+  "source": "https://www.web3carnival.world/",
+  "snapshotDate": "2026-09-26",
+  "events": [
+    {
+      "name": "Bitcoin Pizza Day",
+      "date": "22 May 2025",
+      "place": "Across India",
+      "image": "/pizza.png",
+      "url": "https://x.com/web3carnival/status/1923393277333733789?s=46&t=xmMeQHjm89tZ81E6H8sf8w",
+      "localImage": "assets/original/d116edd9fdb39d22.png"
+    },
+    {
+      "name": "The Signal After Dark",
+      "date": "April 28th",
+      "place": "Dubai, UAE",
+      "image": "/web3.png",
+      "url": "/register",
+      "localImage": "assets/original/452da85d2acb26c5.png"
+    },
+    {
+      "name": "DeGen Summit",
+      "date": "September 16, 2024",
+      "place": "HUONE Singapore | Meeting and Event Venue",
+      "image": "/1.png",
+      "url": "https://lu.ma/7a1zyw5g",
+      "localImage": "assets/original/d12f321172f0dc55.png"
+    },
+    {
+      "name": "KOL Awards Night – DeGen Summit",
+      "date": "September 16, 2024",
+      "place": "Singapore",
+      "image": "/events/1.png",
+      "url": "https://lu.ma/0gj3tf66",
+      "localImage": "assets/original/89a71da2fd00278e.png"
+    },
+    {
+      "name": "Pitch Fest – DeGen Summit ’24",
+      "date": "September 16, 2024",
+      "place": "Singapore",
+      "image": "/events/2.png",
+      "url": "https://lu.ma/dnhnnn1d",
+      "localImage": "assets/original/b34642eae86e2305.png"
+    },
+    {
+      "name": "W3WC: World Web3 Consortium",
+      "date": "April 22, 2024",
+      "place": "Millennium Plaza Downtown, Dubai",
+      "image": "/events/3.png",
+      "url": "https://lu.ma/w3wc",
+      "localImage": "assets/original/5de44b90cc31bd2e.png"
+    },
+    {
+      "name": "Elevator Pitch Battle Bitcoin Mena Side Event",
+      "date": "December 12, 2024",
+      "place": "Dubai, UAE",
+      "image": "/events/4.png",
+      "url": "https://lu.ma/u7o037il",
+      "localImage": "assets/original/fd8c250604b0091a.png"
+    },
+    {
+      "name": "Founders & Funders Night",
+      "date": "April 5, 2025",
+      "place": "Delhi, India",
+      "image": "/maha.png",
+      "url": "https://lu.ma/la293z9t",
+      "localImage": "assets/original/3e64166295e3869d.png"
+    },
+    {
+      "name": "Book Launch at Web3 Carnival by Harman Puri",
+      "date": "December 10, 2023",
+      "place": "Palm Meadows, Bengaluru",
+      "image": "/2.avif",
+      "url": "https://lu.ma/kof4nm5e",
+      "localImage": "assets/original/b141efbe3f24f464.avif"
+    },
+    {
+      "name": "Exclusive High‑Tea by TimeChain Labs",
+      "date": "December 9, 2023",
+      "place": "Palm Meadows, Bengaluru",
+      "image": "/3.avif",
+      "url": "https://lu.ma/sredmkl8",
+      "localImage": "assets/original/f99234bacddcd666.avif"
+    },
+    {
+      "name": "Demo Night at Web3 Carnival – Brinc",
+      "date": "December 6, 2023",
+      "place": "Palm Meadows, Bengaluru",
+      "image": "/4.avif",
+      "url": "https://lu.ma/qxc9y3fg",
+      "localImage": "assets/original/7d39e741532d6cb2.avif"
+    },
+    {
+      "name": "Road to EthDenver – BukTrips Traveller Meetup",
+      "date": "December 6, 2023",
+      "place": "Palm Meadows, Bengaluru",
+      "image": "/5.avif",
+      "url": "https://lu.ma/Bukweb3carnival2023",
+      "localImage": "assets/original/6b12afb7d1e68c15.avif"
+    },
+    {
+      "name": "Cypher Genesis Summit – at Web3 Carnival",
+      "date": "December 6, 2023",
+      "place": "Palm Meadows, Bengaluru",
+      "image": "/7.avif",
+      "url": "https://lu.ma/msd9mhri",
+      "localImage": "assets/original/23c816fb0e273d19.avif"
+    },
+    {
+      "name": "Pvt. Gala Dinner at Web3 Carnival – TON",
+      "date": "December 4, 2023",
+      "place": "Palm Meadows, Bengaluru",
+      "image": "/6.avif",
+      "url": "https://lu.ma/privatew3carnival",
+      "localImage": "assets/original/0ff4d5cad0d2d5e3.avif"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Raj Kapoor",
+      "role": "Founder, India Blockchain Alliance & Founder, Web3 On The Sea",
+      "place": "India",
+      "image": "/_next/static/media/raj.064687c4.png",
+      "linkedin": "https://www.linkedin.com/in/indieblock",
+      "twitter": "https://x.com/rajkapoor1984",
+      "localImage": "assets/original/c6893d985cacd486.png"
+    },
+    {
+      "name": "Prashant Kumar",
+      "role": "Head of Generative AI, Growth Markets, Accenture Song",
+      "place": "Malaysia",
+      "image": "/_next/static/media/Prashant.76610cb1.jpeg",
+      "linkedin": "https://www.linkedin.com/in/prashantkumar2006",
+      "twitter": "https://x.com/hereispk",
+      "localImage": "assets/original/ab35b1df2ced474f.jpeg"
+    },
+    {
+      "name": "Jong-Chan Chung",
+      "role": "Venture Manager, Blockchain Founders Group",
+      "place": "Korea",
+      "image": "/_next/static/media/Jong.c06bde34.jpg",
+      "linkedin": "https://www.linkedin.com/in/jongchanchung",
+      "twitter": "https://twitter.com/guyukyukgu",
+      "localImage": "assets/original/fd6cb87821288271.jpg"
+    },
+    {
+      "name": "Femina Pulliyil Madasheri",
+      "role": "Blockchain consultant",
+      "place": "Bangalore, India",
+      "image": "/_next/static/media/Femina.bc6bbc12.jpeg",
+      "linkedin": "https://www.linkedin.com/in/femina-pm-b016b3111/",
+      "twitter": "#",
+      "localImage": "assets/original/d4a99f398e6a7c68.jpeg"
+    },
+    {
+      "name": "John Eggleston",
+      "role": "Serial Entrepreneur, Co-founder of Artysan Accelerator",
+      "place": "Tasmania, Australia",
+      "image": "/_next/static/media/John Eggleston.e3d3a6c8.jpeg",
+      "linkedin": "https://www.linkedin.com/in/john-eggleston-256021231/",
+      "twitter": "https://twitter.com/EgglestonTweets",
+      "localImage": "assets/original/5e07bdcd7f93f0ec.jpeg"
+    },
+    {
+      "name": "Vinit Sinha",
+      "role": "Director - Cybersecurity, Mastercard & President, ISACA",
+      "place": "Delhi, India",
+      "image": "/_next/static/media/vinitsinha.e9a11217.jpeg",
+      "linkedin": "https://www.linkedin.com/in/vinit-sinha-63514b68",
+      "twitter": "https://www.linkedin.com/in/vinit-sinha-63514b68",
+      "localImage": "assets/original/dddfb107e4f0eda3.jpeg"
+    },
+    {
+      "name": "Hariharan Ramakrishnan",
+      "role": "Senior Engineering Manager - Digital, Ford Credit IT",
+      "place": "India",
+      "image": "/_next/static/media/hariharan.8a4122c8.jpeg",
+      "linkedin": "https://www.linkedin.com/in/hihari/",
+      "twitter": "",
+      "localImage": "assets/original/f13376b888fca87d.jpeg"
+    },
+    {
+      "name": "Zach Marks",
+      "role": "Founder & CEO, Jia",
+      "place": "United States",
+      "image": "/_next/static/media/zach.96d82da6.jpeg",
+      "linkedin": "https://www.linkedin.com/in/zachmarks/",
+      "twitter": "https://twitter.com/zmarks215",
+      "localImage": "assets/original/3bf504ab9ed2597d.jpeg"
+    },
+    {
+      "name": "Satish Kumar",
+      "role": "Founder & CEO, Simsy Ventures",
+      "place": "UAE",
+      "image": "/_next/static/media/satish.d216bf4a.jpeg",
+      "linkedin": "https://www.linkedin.com/in/simsykumar/",
+      "twitter": "",
+      "localImage": "assets/original/947676e7b418c82a.jpeg"
+    },
+    {
+      "name": "Alexander Jacobi",
+      "role": "Crypto Project Advisor & Co-Founder, Punchword",
+      "place": "Germany",
+      "image": "/_next/static/media/alexander.fb9e9849.jpeg",
+      "linkedin": "https://www.linkedin.com/in/aj-alexjacobi/",
+      "twitter": "https://twitter.com/aj_alexjacobi?lang=en",
+      "localImage": "assets/original/e741a08ec1ff1f4f.jpeg"
+    },
+    {
+      "name": "Kanishka Agiwal",
+      "role": "Head - Service Lines, India & South Asia, Amazon Web Services (AWS)",
+      "place": "India",
+      "image": "/_next/static/media/kanishka.f3dd6d46.jpeg",
+      "linkedin": "https://www.linkedin.com/in/kanishkaagiwal/",
+      "twitter": "https://twitter.com/kanishkaagiwal",
+      "localImage": "assets/original/a2602ab1bcea0bc3.jpeg"
+    },
+    {
+      "name": "Anıl Karaçay",
+      "role": "Founder of Anatolian Blockchain",
+      "place": "Ankara,Turkey",
+      "image": "/_next/static/media/anil.dec31873.jpg",
+      "linkedin": "http://www.linkedin.com/in/anilkaracay",
+      "twitter": "https://twitter.com/anilchain",
+      "localImage": "assets/original/0a8d387f44c686c4.jpg"
+    },
+    {
+      "name": "Trish Kane (virtual)",
+      "role": "Founder & CEO of Healerverse",
+      "place": "Florida,USA",
+      "image": "/_next/static/media/trish.8bfcf30a.jpeg",
+      "linkedin": "https://www.linkedin.com/in/trishmkane",
+      "twitter": "https://twitter.com/healerverse",
+      "localImage": "assets/original/ed06d487f65c002e.jpeg"
+    },
+    {
+      "name": "Masayuki Tani",
+      "role": "Founding Parter, Pro-Innovation Legal",
+      "place": "Japan",
+      "image": "/_next/static/media/masayuki.b1a70507.jpeg",
+      "linkedin": "https://www.linkedin.com/in/masayuki-tani-b19545151/",
+      "twitter": "https://twitter.com/masat_jp",
+      "localImage": "assets/original/984c9c1771d85475.jpeg"
+    },
+    {
+      "name": "Lisa JY Tan",
+      "role": "CEO and Founder of Economics Design",
+      "place": "Japan",
+      "image": "/_next/static/media/lisa.f6f40967.png",
+      "linkedin": "https://www.linkedin.com/in/lisajytan/",
+      "twitter": "https://twitter.com/lisajytan",
+      "localImage": "assets/original/b6e00938186f962f.png"
+    },
+    {
+      "name": "Kunal Kumar",
+      "role": "Blockchain Researcher, Coinbase",
+      "place": "India",
+      "image": "/_next/static/media/kunal.f3a104d5.jpeg",
+      "linkedin": "https://www.linkedin.com/in/kunal-kumar-623b1877/",
+      "twitter": "https://twitter.com/kr_kunal4",
+      "localImage": "assets/original/d85b470020e116aa.jpeg"
+    },
+    {
+      "name": "Kamlesh Nagware",
+      "role": "Co-founder, FSV Capital",
+      "place": "India",
+      "image": "/_next/static/media/kamlesh.5f2dd642.png",
+      "linkedin": "https://in.linkedin.com/in/kamlesh-nagware-1456094b",
+      "twitter": "https://twitter.com/KNagware",
+      "localImage": "assets/original/04bb2b7c299e4ece.png"
+    },
+    {
+      "name": "Nadja Bester",
+      "role": "Co-founder, AdLunam | Documentary Executive Producer | Host of The Future of NFTs | Web3 Speaker",
+      "place": "Dubai",
+      "image": "/_next/static/media/nadja.cdcddeb3.png",
+      "linkedin": "https://www.linkedin.com/in/nadjabester",
+      "twitter": "https://twitter.com/NadjaBester",
+      "localImage": "assets/original/821c496bc94fc79f.png"
+    },
+    {
+      "name": "Ajeet Khurana",
+      "role": "Angel Investor; Ex-CEO, Zebpay",
+      "place": "Dubai, UAE",
+      "image": "/_next/static/media/ajeet.b49103e2.png",
+      "linkedin": "https://www.linkedin.com/in/ajeetkhurana",
+      "twitter": "https://x.com/ajeetk",
+      "localImage": "assets/original/c1573308bbb45d90.png"
+    },
+    {
+      "name": "Maaz Memon",
+      "role": "CEO and Founder of BhaiFinance",
+      "place": "New York, USA",
+      "image": "/_next/static/media/maaz.430c8d9f.png",
+      "linkedin": "https://www.linkedin.com/in/maazmemon/",
+      "twitter": "https://twitter.com/daddymaaz",
+      "localImage": "assets/original/a3054918e04693fb.png"
+    },
+    {
+      "name": "Ken Berry",
+      "role": "CEO, Blockchain Network Phillipines",
+      "place": "Phillipines",
+      "image": "/_next/static/media/ken.3301cf20.jpeg",
+      "linkedin": "https://www.linkedin.com/in/kenneth-james-berey-14688699/",
+      "twitter": "https://twitter.com/kenberey",
+      "localImage": "assets/original/9563d0cd81f217a5.jpeg"
+    },
+    {
+      "name": "Abhishek Bhattacharya",
+      "role": "CEO and Co-Founder of The Impact Wave",
+      "place": "India",
+      "image": "/_next/static/media/abhishek.dbbe6fa9.jpeg",
+      "linkedin": "https://www.linkedin.com/in/abhib3012/",
+      "twitter": "https://twitter.com/abhib3012",
+      "localImage": "assets/original/6c43aad8f7817b86.jpeg"
+    },
+    {
+      "name": "Evan Luthra",
+      "role": "Angel Investor & Entrepeneur , 2x Forbes 30 under 30",
+      "place": "India",
+      "image": "/_next/static/media/evan.fddb6c46.jpeg",
+      "linkedin": "https://in.linkedin.com/in/evanluthra",
+      "twitter": "https://twitter.com/EvanLuthra",
+      "localImage": "assets/original/deb6e4d2b7af932f.jpeg"
+    },
+    {
+      "name": "Vidhi Doshi",
+      "role": "Sr. Associate, Blockchain Founders Fund & Advisor, Stanford AI & Web3 & Member, Women in VC, NY",
+      "place": "India",
+      "image": "/_next/static/media/vidhi.5cc9f80d.jpg",
+      "linkedin": "https://www.linkedin.com/in/vidhi-doshi-118965134?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "https://x.com/vidhidoshi0212?s=21&t=xmMeQHjm89tZ81E6H8sf8w",
+      "localImage": "assets/original/65b253debb4e9004.jpg"
+    },
+    {
+      "name": "Teddy Pahaghia",
+      "role": "Founder, BLVCK Pixel & Board Member, Institute of Digital Fashion, UK",
+      "place": "France",
+      "image": "/_next/static/media/teddycrop.59016bfd.jpeg",
+      "linkedin": "https://www.linkedin.com/in/teddypahagbia/",
+      "twitter": "https://twitter.com/mr_metaverse",
+      "localImage": "assets/original/b8a532848ea21dc8.jpeg"
+    },
+    {
+      "name": "Astha Yadav",
+      "role": "Senior Blockchain Developer, OCBC Bank & ZK Advocate",
+      "place": "Singapore",
+      "image": "/_next/static/media/astha.94dc315e.jpeg",
+      "linkedin": "https://www.linkedin.com/in/astha-yadav27?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "",
+      "localImage": "assets/original/af3005b7bb34c84b.jpeg"
+    },
+    {
+      "name": "Kapil Dhiman",
+      "role": "Strategic Advisor & Coach & Ex - Web3 Lead, PwC",
+      "place": "Mumbai, India",
+      "image": "/_next/static/media/kapil.7154d44f.jpeg",
+      "linkedin": "ttps://www.linkedin.com/in/kapil-dhiman-5a68b0138?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "",
+      "localImage": "assets/original/4c3133cdf8b24975.jpeg"
+    },
+    {
+      "name": "Viivek Mehata",
+      "role": "Fund Manager Leo Ventures",
+      "place": "India",
+      "image": "/_next/static/media/vivek.250a8c10.jpeg",
+      "linkedin": "https://www.linkedin.com/in/viivek-mehata16",
+      "twitter": "https://twitter.com/mehtaandmore",
+      "localImage": "assets/original/073b1a08500d7be5.jpeg"
+    },
+    {
+      "name": "Ritam Gupta",
+      "role": "Partner - NonceBlox & NonceVC",
+      "place": "Dubai, UAE",
+      "image": "/_next/static/media/ritamcrop.52778bc0.jpeg",
+      "linkedin": "https://www.linkedin.com/in/ritamgupta/",
+      "twitter": "https://twitter.com/ritamg123",
+      "localImage": "assets/original/3e9617d15329476a.jpeg"
+    },
+    {
+      "name": "Anuradha Chowdhary",
+      "role": "Founder & CEO, ZeroTo3 Collective",
+      "place": "India",
+      "image": "/_next/static/media/anuradha.213e5c6b.jpeg",
+      "linkedin": "http://linkedin.com/in/anuradha-chowdhary-2bb28795",
+      "twitter": "https://twitter.com/Anuradha_RC",
+      "localImage": "assets/original/76293e8c034763ce.jpeg"
+    },
+    {
+      "name": "Shishir Gupta",
+      "role": "Managing Director, Sorted Wallet",
+      "place": "Hong Kong",
+      "image": "/_next/static/media/shishir.03b096a9.jpeg",
+      "linkedin": "https://www.linkedin.com/in/shishrgupta/",
+      "twitter": "https://twitter.com/KuchBhiGupta",
+      "localImage": "assets/original/550329b5cff45e25.jpeg"
+    },
+    {
+      "name": "Parth Chadha",
+      "role": "Founder & CEO, STAN",
+      "place": "India",
+      "image": "/_next/static/media/parth.7dda7fbb.png",
+      "linkedin": "https://www.linkedin.com/in/parth-chadha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "https://x.com/theparthchadha?s=11&t=xmMeQHjm89tZ81E6H8sf8w",
+      "localImage": "assets/original/63278316d9f47e76.png"
+    },
+    {
+      "name": "Shantnoo Saxsena",
+      "role": "Founder, Encryptus Europe",
+      "place": "UAE",
+      "image": "/_next/static/media/shantanoo.5fe909e7.png",
+      "linkedin": "https://www.linkedin.com/in/shantnu-saxena/",
+      "twitter": "https://twitter.com/Shantnoo6",
+      "localImage": "assets/original/a7c295152a101715.png"
+    },
+    {
+      "name": "Jason Fernandes",
+      "role": "Co-Founder AdLunam | Blockchain & Crypto Advisor | Investor & Mentor I Member Stanford AI and web Research Lab | Karmaveer Chakra Awardee (U.N)",
+      "place": "India",
+      "image": "/_next/static/media/jason.1d8a0733.png",
+      "linkedin": "https://www.linkedin.com/in/thejasonfernandes/",
+      "twitter": "https://twitter.com/AdLunamInc",
+      "localImage": "assets/original/933cbdcce8a72abb.png"
+    },
+    {
+      "name": "Varun Singhi",
+      "role": "Co-Founder and Strategy Head, PropFTX",
+      "place": "India",
+      "image": "/_next/static/media/varun.47f0cb1f.jpg",
+      "linkedin": "https://www.linkedin.com/in/singhi/",
+      "twitter": "https://twitter.com/VarunSinghi",
+      "localImage": "assets/original/57e05793dccb1b2e.jpg"
+    },
+    {
+      "name": "Ligia Paraiso",
+      "role": "Founder and CEO, WeDeserve Freedom",
+      "place": "Paris, France",
+      "image": "/_next/static/media/ligia.9883ec2f.jpg",
+      "linkedin": "https://www.linkedin.com/in/ligia-paraiso/",
+      "twitter": "https://twitter.com/Ligiaspfc",
+      "localImage": "assets/original/2499789b6d5c9252.jpg"
+    },
+    {
+      "name": "Anish Mohammed",
+      "role": "Co-Founder, CTO & Chief Scientist, Panther Protocol",
+      "place": "Dubai",
+      "image": "/_next/static/media/aneesh.7f75e89f.jpg",
+      "linkedin": "https://www.linkedin.com/in/anishmohammed/",
+      "twitter": "https://twitter.com/anishmohammed",
+      "localImage": "assets/original/e4712382e21ffca8.jpg"
+    },
+    {
+      "name": "Divya Prashanth",
+      "role": "CEO and Co-Founder, HQNFTS Solana Superteam,UK Nasdaq Contributor",
+      "place": "London",
+      "image": "/_next/static/media/divya.10fc7870.jpg",
+      "linkedin": "https://uk.linkedin.com/in/divya-b4427912a",
+      "twitter": "",
+      "localImage": "assets/original/8d5834b7fe4ea113.jpg"
+    },
+    {
+      "name": "Mudit Marda",
+      "role": "Co-Founder and CTO, DRIFE",
+      "place": "India",
+      "image": "/_next/static/media/mudit.94af19e2.png",
+      "linkedin": "https://in.linkedin.com/in/muditmarda",
+      "twitter": "",
+      "localImage": "assets/original/ded566b3cc3262ea.png"
+    },
+    {
+      "name": "Preetam Rao",
+      "role": "CEO and Co-Founder, QuillAudits",
+      "place": "India",
+      "image": "/_next/static/media/preetam.f58b6872.jpeg",
+      "linkedin": "https://www.linkedin.com/in/raopreetam",
+      "twitter": "https://twitter.com/raopreetam_",
+      "localImage": "assets/original/83a010ba8107bd57.jpeg"
+    },
+    {
+      "name": "Arvin Khamseh",
+      "role": "Founder of the SoldOut NFTs",
+      "place": "Dubai",
+      "image": "/_next/static/media/arvin.57746226.jpeg",
+      "linkedin": "https://www.linkedin.com/in/arvinkhamseh/",
+      "twitter": "https://twitter.com/ArvinkNft",
+      "localImage": "assets/original/aa56c82dba4f9018.jpeg"
+    },
+    {
+      "name": "Abhishek Singh",
+      "role": "Founding Member, Voice of Crypto",
+      "place": "London, UK",
+      "image": "/_next/static/media/abhishek2.6e8bc00e.jpeg",
+      "linkedin": "https://www.linkedin.com/in/abhisheksinghrajpurohit/",
+      "twitter": "https://twitter.com/rbkasr",
+      "localImage": "assets/original/a2be3edf306d53bd.jpeg"
+    },
+    {
+      "name": "Varuni Trivedi",
+      "role": "Editor in Chief, Voice of Crypto",
+      "place": "Mumbai, India",
+      "image": "/_next/static/media/varuni.9b14b1c7.jpeg",
+      "linkedin": "https://www.linkedin.com/in/varuni-trivedi-316663149/",
+      "twitter": "https://twitter.com/varuni_trivedi",
+      "localImage": "assets/original/49f3daa96fea2914.jpeg"
+    },
+    {
+      "name": "Yax Sheth",
+      "role": "CEO, ChainClave",
+      "place": "Dubai",
+      "image": "/_next/static/media/yax.577b0182.png",
+      "linkedin": "https://www.linkedin.com/in/yax22/",
+      "twitter": "https://twitter.com/Yax22",
+      "localImage": "assets/original/be21f882c8fef6bb.png"
+    },
+    {
+      "name": "Vinod Kumar",
+      "role": "Founder, Cypher Blockchain",
+      "place": "India",
+      "image": "/_next/static/media/vinod.248c68e3.jpg",
+      "linkedin": "https://linkedin.com/in/answervinod",
+      "twitter": "https://twitter.com/answervinod",
+      "localImage": "assets/original/66ede3904c4d18a6.jpg"
+    },
+    {
+      "name": "Naman Kabra",
+      "role": "Head of Business Development and Growth, Metasky",
+      "place": "India",
+      "image": "/_next/static/media/naman.c9235a5b.jpeg",
+      "linkedin": "https://www.linkedin.com/in/namankabra/",
+      "twitter": "https://twitter.com/307naman",
+      "localImage": "assets/original/24b0e101c2b12e69.jpeg"
+    },
+    {
+      "name": "Alankar Saxena",
+      "role": "CTO & Co-founder, Mudrex",
+      "place": "India",
+      "image": "/_next/static/media/alankar.8cbc8b2c.png",
+      "linkedin": "https://in.linkedin.com/in/saxenaalankar",
+      "twitter": "https://twitter.com/alankar_saxena?lang=en",
+      "localImage": "assets/original/3729c091040558c7.png"
+    },
+    {
+      "name": "Punit Agarwal",
+      "role": "Founder and CEO at KoinX",
+      "place": "India",
+      "image": "/_next/static/media/punit.81bbc05f.jpeg",
+      "linkedin": "https://www.linkedin.com/in/iampunit/",
+      "twitter": "https://twitter.com/a__punit",
+      "localImage": "assets/original/50bfae3d7b56ce5b.jpeg"
+    },
+    {
+      "name": "Romil Verma",
+      "role": "CEO, Outdefine",
+      "place": "San Francisco",
+      "image": "/_next/static/media/romil.c817d078.jpeg",
+      "linkedin": "https://www.linkedin.com/in/vermaromil/",
+      "twitter": "https://twitter.com/romilvrma",
+      "localImage": "assets/original/7298ac7205ad9ff1.jpeg"
+    },
+    {
+      "name": "Nanda Khiara",
+      "role": "Artist, writer, storyteller, speaker & founder of GALLERY NK",
+      "place": "UK",
+      "image": "/_next/static/media/nanda.0018a6ae.jpeg",
+      "linkedin": "https://www.linkedin.com/in/nanda-khiara-4941786/",
+      "twitter": "https://twitter.com/NandaKhiara",
+      "localImage": "assets/original/eb873bf5e2514b31.jpeg"
+    },
+    {
+      "name": "Parika Soni",
+      "role": "Web3 Startup Advisor",
+      "place": "Singapore",
+      "image": "/_next/static/media/parika.64400963.jpeg",
+      "linkedin": "https://www.linkedin.com/in/Parika-soni",
+      "twitter": "https://twitter.com/parikaa_sonii",
+      "localImage": "assets/original/01b1dd5375a733f8.jpeg"
+    },
+    {
+      "name": "Karan Keswani",
+      "role": "CEO, BharatBox",
+      "place": "India",
+      "image": "/_next/static/media/karan.6854b869.jpeg",
+      "linkedin": "https://www.linkedin.com/in/karan-keswani-87b13548",
+      "twitter": "https://twitter.com/Karanverse",
+      "localImage": "assets/original/89e47382703fc4d6.jpeg"
+    },
+    {
+      "name": "Vijay Pravin",
+      "role": "Founder and CEO - bitsCrunch",
+      "place": "Germany",
+      "image": "/_next/static/media/vijay.ac7b92cb.jpeg",
+      "linkedin": "https://www.linkedin.com/in/vijaypravin/",
+      "twitter": "https://twitter.com/VijayPravinM",
+      "localImage": "assets/original/643f8d6c37b9379f.jpeg"
+    },
+    {
+      "name": "Arnaud Wenger",
+      "role": "General Counsel, Sakura Linkage International",
+      "place": "Singapore",
+      "image": "/_next/static/media/arnaud.70d9808b.png",
+      "linkedin": "https://www.linkedin.com/in/arnaud-wenger-104ab83b/",
+      "twitter": "",
+      "localImage": "assets/original/7b5307f712ab5154.png"
+    },
+    {
+      "name": "Amirsan Roberto",
+      "role": "Co-founder & managing partner, Sinofy",
+      "place": "Singapore",
+      "image": "/_next/static/media/amirsan.b72c133a.png",
+      "linkedin": "https://www.linkedin.com/in/amirsanroberto/",
+      "twitter": "",
+      "localImage": "assets/original/93e66fb23a18f563.png"
+    },
+    {
+      "name": "Aditya Mehrotra",
+      "role": "Founder and Chief Strategist, Verseatile",
+      "place": "India",
+      "image": "/_next/static/media/aditya.badcf435.jpeg",
+      "linkedin": "https://www.linkedin.com/in/aditya-mehrotra20?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "https://twitter.com/adi_verseatile",
+      "localImage": "assets/original/74b638aeeeaa7e9e.jpeg"
+    },
+    {
+      "name": "Anisha Patnaik",
+      "role": "Founder LexStart Partners & The Chain Project",
+      "place": "India",
+      "image": "/_next/static/media/anisha.a0ec57c1.jpeg",
+      "linkedin": " https://www.linkedin.com/in/anishapatnaik/",
+      "twitter": "https://twitter.com/AnishaPatnaik",
+      "localImage": "assets/original/4991aa55530978db.jpeg"
+    },
+    {
+      "name": "Popoola Kayode Joseph",
+      "role": "Secret Network Africa Lead, Secret Foundation",
+      "place": "Nigeria",
+      "image": "/_next/static/media/pope.fb0c16e1.png",
+      "linkedin": "https://www.linkedin.com/in/thepopeblack/",
+      "twitter": "www.twitter.com/thepopeblack",
+      "localImage": "assets/original/ed0cd3d2575426b5.png"
+    },
+    {
+      "name": "Shruti Kohli",
+      "role": "Sr. BD Manager (Global Partnerships), Bitrue",
+      "place": "India",
+      "image": "/_next/static/media/shruti.b5fc0a9d.jpeg",
+      "linkedin": "https://www.linkedin.com/in/shruti-kohli-35377b52/",
+      "twitter": "https://twitter.com/ShrutiK57785716",
+      "localImage": "assets/original/b021414a71e88fea.jpeg"
+    },
+    {
+      "name": "Jeffrey Broer",
+      "role": "Founder Mulana IM & Advisor, Graviton",
+      "place": "Hong Kong",
+      "image": "/_next/static/media/jeffrey.45742f15.jpeg",
+      "linkedin": "www.linkedin.com/in/jeffreybroer",
+      "twitter": "https://x.com/jebbery/",
+      "localImage": "assets/original/04cefd61cf60d238.jpeg"
+    },
+    {
+      "name": "Angad B Sodhi",
+      "role": "Director of Media, NFTs,Tech & Culture, India Blockchain Alliance",
+      "place": "India",
+      "image": "/_next/static/media/angad.de8ba582.jpeg",
+      "linkedin": "https://www.linkedin.com/in/angadbsodhi",
+      "twitter": "https://twitter.com/angadbsodhi",
+      "localImage": "assets/original/9791e42f42324384.jpeg"
+    },
+    {
+      "name": "Sourabh Kumar",
+      "role": "Chief Executive Officer, World Crypto Council OÜ",
+      "place": "Estonia",
+      "image": "/_next/static/media/sourabh.6cc92c63.jpeg",
+      "linkedin": "https://www.linkedin.com/in/sourabhkumar0303/",
+      "twitter": "",
+      "localImage": "assets/original/e47008d0de9eb6a4.jpeg"
+    },
+    {
+      "name": "Manbir Singh",
+      "role": "Developer Community Manager, Metamask",
+      "place": "India",
+      "image": "/_next/static/media/manbir.d34db32f.jpeg",
+      "linkedin": "",
+      "twitter": "",
+      "localImage": "assets/original/7458e408a61a60e7.jpeg"
+    },
+    {
+      "name": "Dr. Ritesh Jain",
+      "role": "Founder & Board Advisor, Infynit | Fintechs | Emerging Tech | Payments | Financial Inclusion G20 GPFI",
+      "place": "London,UK",
+      "image": "/_next/static/media/ritesh.4f049d73.jpeg",
+      "linkedin": "https://www.linkedin.com/in/drriteshjain",
+      "twitter": "https://twitter.com/ritesh5182",
+      "localImage": "assets/original/5caef8f1f5edad18.jpeg"
+    },
+    {
+      "name": "Parth Chaturvedi",
+      "role": "Investments Lead at CoinSwitch Ventures | ex-FalconX & Onyx by J.P. Morgan",
+      "place": "India",
+      "image": "/_next/static/media/parth2.1fa7623b.jpeg",
+      "linkedin": "https://www.linkedin.com/in/parth-chaturvedi-a672165a/",
+      "twitter": "https://twitter.com/Parth4vedi",
+      "localImage": "assets/original/d0d915a1d8bde0b2.jpeg"
+    },
+    {
+      "name": "Zenobia Godschalk (virtual)",
+      "role": "SVP of Communications for Swirlds",
+      "place": "Atlanta, USA",
+      "image": "/_next/static/media/zenobia.9eb82915.jpeg",
+      "linkedin": "https://www.linkedin.com/in/zenobiaaustingodschalk/",
+      "twitter": "https://twitter.com/zenobiazag",
+      "localImage": "assets/original/2b70052bc8686d67.jpeg"
+    },
+    {
+      "name": "Arul Prakash",
+      "role": "Co Founder, BukTrips",
+      "place": "SF, Bay Area",
+      "image": "/_next/static/media/arul.15dff767.jpeg",
+      "linkedin": "Linkedin.com/in/arulprakash",
+      "twitter": "https://x.com/Prak_ap ",
+      "localImage": "assets/original/fdbf14000fd6dcce.jpeg"
+    },
+    {
+      "name": "Karan Ambwani",
+      "role": "dYdX Foundation India & MENA Lead",
+      "place": "India",
+      "image": "/_next/static/media/karan2.55744d2a.jpeg",
+      "linkedin": "https://www.linkedin.com/in/karan-ambwani/ ",
+      "twitter": "https://twitter.com/0xkarana",
+      "localImage": "assets/original/493e6328ae9478d1.jpeg"
+    },
+    {
+      "name": "Prasanna Lohar",
+      "role": "CEO Block Stack Founder at India Blockchain Forum Bank and Fintech Advisor",
+      "place": "India",
+      "image": "/_next/static/media/prasanna.cdaf4a95.jpeg",
+      "linkedin": "https://www.linkedin.com/in/prasannalohar",
+      "twitter": "https://twitter.com/loharprasanna",
+      "localImage": "assets/original/edd4b43781e2baea.jpeg"
+    }
+  ]
+}

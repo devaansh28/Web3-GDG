@@ -1,0 +1,6 @@
+# Generated verification captures and intermediate source downloads
+/lab/
+/tmp/
+
+# Archive bundles are reproducible; keep the submission PDF
+/output/*.zip

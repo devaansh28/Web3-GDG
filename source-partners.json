@@ -1,0 +1,795 @@
+[
+  {
+    "title": "Our Past Sponsors",
+    "partners": [
+      {
+        "name": "brinc",
+        "image": "https://www.web3carnival.world/_next/static/media/Brinc1.56a62acc.png",
+        "url": "https://www.brinc.io/",
+        "localImage": "assets/original/0e97e98fd6bf9d6c.png"
+      },
+      {
+        "name": "soulverse",
+        "image": "https://www.web3carnival.world/_next/static/media/thirdsponsor.fc60193d.jpeg",
+        "url": "https://soulverse.us/",
+        "localImage": "assets/original/ad1bfeb11f3f94f6.jpeg"
+      },
+      {
+        "name": "outdefine",
+        "image": "https://www.web3carnival.world/_next/static/media/outdefine.5d938a9f.svg",
+        "url": "https://www.outdefine.com/",
+        "localImage": "assets/original/04e6db030cfe15fb.svg"
+      },
+      {
+        "name": "versatile",
+        "image": "https://www.web3carnival.world/_next/static/media/versatile.8e2fed7c.png",
+        "url": "https://www.verseatile.live/",
+        "localImage": "assets/original/195f5d666f8e88d1.png"
+      },
+      {
+        "name": "bounce",
+        "image": "https://www.web3carnival.world/_next/static/media/bounce.5e187b53.png",
+        "url": "https://beta.letsbounce.gg/",
+        "localImage": "assets/original/3b9f5e755901ee85.png"
+      },
+      {
+        "name": "safeverse",
+        "image": "https://www.web3carnival.world/_next/static/media/safeverse.cd64c454.jpeg",
+        "url": "https://safeverse.io/",
+        "localImage": "assets/original/25092c6701f14761.jpeg"
+      },
+      {
+        "name": "casanft",
+        "image": "https://www.web3carnival.world/_next/static/media/casanft.ae12e5c3.svg",
+        "url": "https://www.casanft.com/",
+        "localImage": "assets/original/1bd0353e02684522.svg"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image12.png",
+        "url": "",
+        "localImage": "assets/original/b129d1f9971e15ec.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image10.png",
+        "url": "",
+        "localImage": "assets/original/cbf6b2a3b1aaf090.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image5.png",
+        "url": "",
+        "localImage": "assets/original/16db28d3cae69efa.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image9.png",
+        "url": "",
+        "localImage": "assets/original/e000b614b12043ac.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image7.png",
+        "url": "",
+        "localImage": "assets/original/0c84a3c7d4153ef4.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image8.png",
+        "url": "",
+        "localImage": "assets/original/94e3f52c9ca087ff.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image11.png",
+        "url": "",
+        "localImage": "assets/original/80b5958ce72331aa.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image.png",
+        "url": "",
+        "localImage": "assets/original/6b3cb5d81ff7a9e3.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/meme.jpeg",
+        "url": "",
+        "localImage": "assets/original/f062c864658d8ea7.jpeg"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/k.jpeg",
+        "url": "",
+        "localImage": "assets/original/21d022a27074ed41.jpeg"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/bla.jpeg",
+        "url": "",
+        "localImage": "assets/original/58765aec7e52f6d9.jpeg"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image2.png",
+        "url": "",
+        "localImage": "assets/original/4c2386a6b909517c.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/m.png",
+        "url": "",
+        "localImage": "assets/original/318d42509a0508fa.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/zig.svg",
+        "url": "",
+        "localImage": "assets/original/30d2394009d5a427.svg"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/sp/image3.png",
+        "url": "",
+        "localImage": "assets/original/39e9299328cabe8e.png"
+      },
+      {
+        "name": "cointelegraph",
+        "image": "https://www.web3carnival.world/ya.jpeg",
+        "url": "",
+        "localImage": "assets/original/76a9c2d453782b99.jpeg"
+      }
+    ]
+  },
+  {
+    "title": "Crypto Payment Partner",
+    "partners": [
+      {
+        "name": "CopperX",
+        "image": "https://www.web3carnival.world/_next/static/media/CopperX.ed5b8ac3.svg",
+        "url": "https://copperx.io/?ref=web3carnival",
+        "localImage": "assets/original/acebc5d786c19c23.svg"
+      }
+    ]
+  },
+  {
+    "title": "Ticketing Partners",
+    "partners": [
+      {
+        "name": "paytmInsider",
+        "image": "https://www.web3carnival.world/_next/static/media/paytmInsider.e57af19d.png",
+        "url": "https://insider.in/web3-carnival-2023-dec4-2023/event/?ref=web3carnival",
+        "localImage": "assets/original/c72d9b013be1c7f5.png"
+      },
+      {
+        "name": "explaraLogo",
+        "image": "https://www.web3carnival.world/_next/static/media/explaraLogo.406e789d.svg",
+        "url": "https://www.explara.com/e/web3-carnival-7daypass",
+        "localImage": "assets/original/a6788fbbe5560bb7.svg"
+      }
+    ]
+  },
+  {
+    "title": "Past Community Partners",
+    "partners": [
+      {
+        "name": "nefto",
+        "image": "https://www.web3carnival.world/_next/static/media/NeftoLogo.af8101b9.png",
+        "url": "https://www.nefto.in/?ref=web3carnival",
+        "localImage": "assets/original/9f97df4684c2d7f1.png"
+      },
+      {
+        "name": "codeate",
+        "image": "https://www.web3carnival.world/_next/static/media/codeate.a206e904.png",
+        "url": "https://www.codeate.in/?ref=web3carnival",
+        "localImage": "assets/original/651572972548e96c.png"
+      },
+      {
+        "name": "Web3Kerala",
+        "image": "https://www.web3carnival.world/_next/static/media/web3kerala.d649fbdb.png",
+        "url": "https://web3kerala.com/?ref=web3carnival",
+        "localImage": "assets/original/aaa887efa871176d.png"
+      },
+      {
+        "name": "social3",
+        "image": "https://www.web3carnival.world/_next/static/media/social3.449a9023.svg",
+        "url": "https://app.social3.club/?ref=web3carnival",
+        "localImage": "assets/original/26323a8ac99359e3.svg"
+      },
+      {
+        "name": "web3chennai",
+        "image": "https://www.web3carnival.world/_next/static/media/web3chennai.0d3bf750.png",
+        "url": "https://twitter.com/Web3Chennai/?ref=web3carnival",
+        "localImage": "assets/original/456b3abbd55a1a6c.png"
+      },
+      {
+        "name": "blockchainHive",
+        "image": "https://www.web3carnival.world/_next/static/media/theblockchainhive.86236e09.png",
+        "url": "https://theblockchainhive.com/aarambh/?ref=web3carnival",
+        "localImage": "assets/original/597ac671d7f5d9d5.png"
+      },
+      {
+        "name": "MetaKraft",
+        "image": "https://www.web3carnival.world/_next/static/media/metakraft.39745fa6.svg",
+        "url": "https://metakraft.live/?ref=web3carnival",
+        "localImage": "assets/original/53fc5dc08f69e645.svg"
+      },
+      {
+        "name": "Central DAO",
+        "image": "https://www.web3carnival.world/_next/static/media/centradao.20315169.png",
+        "url": "https://linktr.ee/central_dao/?ref=web3carnival",
+        "localImage": "assets/original/3483065dcc3b4752.png"
+      },
+      {
+        "name": "gearfi",
+        "image": "https://www.web3carnival.world/_next/static/media/gearfi.952f405c.png",
+        "url": "https://www.gearfi.in/?ref=web3carnival",
+        "localImage": "assets/original/b47bdacd0bd2e7d2.png"
+      },
+      {
+        "name": "buidlup",
+        "image": "https://www.web3carnival.world/_next/static/media/buidlup.e7c94cdf.png",
+        "url": "https://www.buidlup.io/?ref=web3carnival",
+        "localImage": "assets/original/36cea37779a31a9e.png"
+      },
+      {
+        "name": "befikra",
+        "image": "https://www.web3carnival.world/_next/static/media/befikra.bf212af3.png",
+        "url": "https://befikracommunity.in/?ref=web3carnival",
+        "localImage": "assets/original/d503612a06dd216b.png"
+      },
+      {
+        "name": "AltCoiners",
+        "image": "https://www.web3carnival.world/_next/static/media/AltCoiners.4100d1d2.png",
+        "url": "https://linktr.ee/alt_coiners",
+        "localImage": "assets/original/ca8f5069b4877ef3.png"
+      },
+      {
+        "name": "TechSurfers",
+        "image": "https://www.web3carnival.world/_next/static/media/TechSurfers.9607e9fc.png",
+        "url": "https://www.linkedin.com/company/tech-surfers/",
+        "localImage": "assets/original/8d13880a56585a24.png"
+      },
+      {
+        "name": "Web3Commune",
+        "image": "https://www.web3carnival.world/_next/static/media/web3communedark.5979c9d7.png",
+        "url": "https://twitter.com/ocd_india",
+        "localImage": "assets/original/6f693e43b4bc4b9b.png"
+      },
+      {
+        "name": "Collider",
+        "image": "https://www.web3carnival.world/_next/static/media/Collider.aaae4e40.png",
+        "url": "https://joincollider.com/",
+        "localImage": "assets/original/42b9b6757e9cc5e4.png"
+      },
+      {
+        "name": "amigo",
+        "image": "https://www.web3carnival.world/_next/static/media/amigo.e01e3db3.jpeg",
+        "url": "https://irlamigo.com/",
+        "localImage": "assets/original/4c4679d421b87e69.jpeg"
+      },
+      {
+        "name": "bowshy",
+        "image": "https://www.web3carnival.world/_next/static/media/bowshy.4be8108f.png",
+        "url": "https://bowshy.com/",
+        "localImage": "assets/original/20a92a7909a19da6.png"
+      },
+      {
+        "name": "securedapp",
+        "image": "https://www.web3carnival.world/_next/static/media/securedapp.accbf994.svg",
+        "url": "https://securedapp.io/",
+        "localImage": "assets/original/b45839ba54e7aaa4.svg"
+      },
+      {
+        "name": "ubiqwity",
+        "image": "https://www.web3carnival.world/_next/static/media/ubiqwity.242a9959.png",
+        "url": "nas.io/ubiqwity.io",
+        "localImage": "assets/original/df2df3a6fa7bcc24.png"
+      },
+      {
+        "name": "soclly",
+        "image": "https://www.web3carnival.world/_next/static/media/soclly.a09d8cef.png",
+        "url": "https://www.soclly.com/",
+        "localImage": "assets/original/1812c2d13e85a3d0.png"
+      },
+      {
+        "name": "metaversespace",
+        "image": "https://www.web3carnival.world/_next/static/media/metaversespace.04732dc2.jpeg",
+        "url": "https://metaversespace.io/",
+        "localImage": "assets/original/c66d370ae1423f9b.jpeg"
+      },
+      {
+        "name": "decentraclass",
+        "image": "https://www.web3carnival.world/_next/static/media/decentraclass.8487b1d3.png",
+        "url": "https://www.decentraclasses.com/",
+        "localImage": "assets/original/adc249ad8ca73a17.png"
+      },
+      {
+        "name": "blockworldco",
+        "image": "https://www.web3carnival.world/_next/static/media/blockworldco.1b08972a.png",
+        "url": "https://www.blockchainworldco.com/",
+        "localImage": "assets/original/1546f3c5104af2c3.png"
+      },
+      {
+        "name": "coinlisitng",
+        "image": "https://www.web3carnival.world/_next/static/media/coinlisting.96b7661e.png",
+        "url": "https://coinlisting.services/",
+        "localImage": "assets/original/22d235a34e34606b.png"
+      },
+      {
+        "name": "codersera",
+        "image": "https://www.web3carnival.world/_next/static/media/codersera.73ec3c0a.png",
+        "url": "https://www.linkedin.com/company/coders-era/",
+        "localImage": "assets/original/0cca1a1c9ce20675.png"
+      },
+      {
+        "name": "zuraverse",
+        "image": "https://www.web3carnival.world/_next/static/media/zuraverse.618eb7fb.png",
+        "url": "https://zuraverse.xyz/",
+        "localImage": "assets/original/d30b2a478d9b25d7.png"
+      },
+      {
+        "name": "bhopaldao",
+        "image": "https://www.web3carnival.world/_next/static/media/bhopaldao.64fc7628.jpeg",
+        "url": "https://linktr.ee/Bhopal_DAO",
+        "localImage": "assets/original/2af7c073c398e6f2.jpeg"
+      },
+      {
+        "name": "campustechies",
+        "image": "https://www.web3carnival.world/_next/static/media/campustechies.3f61e259.png",
+        "url": "https://twitter.com/CampusTechies",
+        "localImage": "assets/original/d3ed0b54114077c6.png"
+      },
+      {
+        "name": "blockwee",
+        "image": "https://www.web3carnival.world/_next/static/media/blockwee.22ae6026.png",
+        "url": "https://blockwee.com/",
+        "localImage": "assets/original/c1c38035b6fc4775.png"
+      },
+      {
+        "name": "defiverse",
+        "image": "https://www.web3carnival.world/_next/static/media/defiverse.bc9429e2.png",
+        "url": "https://defiverse.money/",
+        "localImage": "assets/original/e3c657cc2dbc92d6.png"
+      },
+      {
+        "name": "lawblocks",
+        "image": "https://www.web3carnival.world/_next/static/media/lawblocks.0e1bceb1.png",
+        "url": "https://lawblocks.io/",
+        "localImage": "assets/original/413e0e6dfbd32d99.png"
+      },
+      {
+        "name": "web5nexus",
+        "image": "https://www.web3carnival.world/_next/static/media/web5nexus.38462f66.png",
+        "url": "https://www.web5.nexus/",
+        "localImage": "assets/original/e43bae4cf38218d8.png"
+      },
+      {
+        "name": "geekyhub",
+        "image": "https://www.web3carnival.world/_next/static/media/geekyhub.ab03495c.png",
+        "url": "https://linktr.ee/hub_geeky",
+        "localImage": "assets/original/adeaf054374fc9f2.png"
+      },
+      {
+        "name": "paycoin",
+        "image": "https://www.web3carnival.world/_next/static/media/paycoin.d1a92cd2.png",
+        "url": "https://paycoincapital.com/",
+        "localImage": "assets/original/cfd55e295d5a119f.png"
+      },
+      {
+        "name": "3.0club",
+        "image": "https://www.web3carnival.world/_next/static/media/3.0club.3d03dd81.png",
+        "url": "",
+        "localImage": "assets/original/27f18de361913ba5.png"
+      },
+      {
+        "name": "bananahq",
+        "image": "https://www.web3carnival.world/_next/static/media/bananahq.a3ccbddc.png",
+        "url": "https://www.bananahq.io/",
+        "localImage": "assets/original/d9bca37dee726510.png"
+      },
+      {
+        "name": "ogclub",
+        "image": "https://www.web3carnival.world/_next/static/media/ogclub.81c383aa.png",
+        "url": "https://ogclub.bio.link/",
+        "localImage": "assets/original/6b4f049255837640.png"
+      },
+      {
+        "name": "web3panjab",
+        "image": "https://www.web3carnival.world/_next/static/media/web3panjab.ad33d837.png",
+        "url": "https://linktr.ee/simarpreet019",
+        "localImage": "assets/original/9bea5f0de93cd7b4.png"
+      },
+      {
+        "name": "deepverse",
+        "image": "https://www.web3carnival.world/_next/static/media/deepverse.c6a348f0.jpg",
+        "url": "https://twitter.com/daodeepverse",
+        "localImage": "assets/original/9e4787bfbd6d4e33.jpg"
+      },
+      {
+        "name": "hyddao",
+        "image": "https://www.web3carnival.world/_next/static/media/hyddao.538ad6b4.png",
+        "url": "https://www.hyderabaddao.com/",
+        "localImage": "assets/original/28af79624abfdffe.png"
+      },
+      {
+        "name": "herdao",
+        "image": "https://www.web3carnival.world/_next/static/media/herdao.32518546.png",
+        "url": "https://x.com/HERDAOIndia?s=20",
+        "localImage": "assets/original/bea3d566ba857014.png"
+      },
+      {
+        "name": "buildoor",
+        "image": "https://www.web3carnival.world/_next/static/media/buildoor.79f2fb74.png",
+        "url": "www.buildoor.xyz",
+        "localImage": "assets/original/57df27587e562faf.png"
+      },
+      {
+        "name": "expelee",
+        "image": "https://www.web3carnival.world/_next/static/media/expelee.4ee7a6d4.png",
+        "url": "https://www.expelee.com/",
+        "localImage": "assets/original/7a36764b6aae854e.png"
+      },
+      {
+        "name": "namma",
+        "image": "https://www.web3carnival.world/_next/static/media/namma.be48149c.jpg",
+        "url": "https://linktr.ee/nammablockchain",
+        "localImage": "assets/original/5bd9e20daf03009c.jpg"
+      },
+      {
+        "name": "hashweb3",
+        "image": "https://storage.tally.so/private/IMG_20231012_230555_604.jpg?id=Z9z9GV&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ilo5ejlHViIsImZvcm1JZCI6Im1WUU5kdiIsImlhdCI6MTY5NzEzMjI4M30.6yTP_mlfWR_7IvlhIb-1ZDXZntFJTpHuRzN7RFTgO8M&signature=5501de4c355ea0ea8132271d3ea1e3879270f722435e6f5e5ce48217be0abeb0",
+        "url": "https://twitter.com/Hashweb3",
+        "localImage": "assets/original/9aefc5fdad7c4dca.jpg"
+      },
+      {
+        "name": "chainly",
+        "image": "https://www.web3carnival.world/_next/static/media/chainly.670f9c89.png",
+        "url": "https://chainly.studio/",
+        "localImage": "assets/original/3a478414639bc2ab.png"
+      },
+      {
+        "name": "crypfem",
+        "image": "https://storage.tally.so/private/IMG_2638.png?id=o9lG6O&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im85bEc2TyIsImZvcm1JZCI6Im1WUU5kdiIsImlhdCI6MTY5NzczMDM1OH0.jXRgfy7mXcKH32Ekrrm2NxFcK5LTrfe8XPwiKgSoJKM&signature=a03af48e56622c320dd88752c98c5793d010c40d4bd46459b411430aa59993c6",
+        "url": "https://www.cryptofemale.org/",
+        "localImage": "assets/original/0971d574a17d95d1.png"
+      },
+      {
+        "name": "178779_54842",
+        "image": "https://www.web3carnival.world/c/178779_54842.webp",
+        "url": "/c/178779_54842.webp",
+        "localImage": "assets/original/feab46182bf72815.webp"
+      },
+      {
+        "name": "aba",
+        "image": "https://www.web3carnival.world/c/aba.PNG",
+        "url": "/c/aba.PNG",
+        "localImage": "assets/original/5d35cb504f024c72.png"
+      },
+      {
+        "name": "ae",
+        "image": "https://www.web3carnival.world/c/ae.jpeg",
+        "url": "/c/ae.jpeg",
+        "localImage": "assets/original/f94a366cf7eb0b5a.jpeg"
+      },
+      {
+        "name": "c1",
+        "image": "https://www.web3carnival.world/c/c1.jpeg",
+        "url": "/c/c1.jpeg",
+        "localImage": "assets/original/1e8de637cfc56393.jpeg"
+      },
+      {
+        "name": "cm1",
+        "image": "https://www.web3carnival.world/c/cm1.jpeg",
+        "url": "/c/cm1.jpeg",
+        "localImage": "assets/original/26662295696d923a.jpeg"
+      },
+      {
+        "name": "de",
+        "image": "https://www.web3carnival.world/c/de.jpeg",
+        "url": "/c/de.jpeg",
+        "localImage": "assets/original/e9ebdbacdacf87a0.jpeg"
+      },
+      {
+        "name": "ju",
+        "image": "https://www.web3carnival.world/c/ju.jpeg",
+        "url": "/c/ju.jpeg",
+        "localImage": "assets/original/0f1015381cff84c5.jpeg"
+      },
+      {
+        "name": "l1",
+        "image": "https://www.web3carnival.world/c/l1.jpeg",
+        "url": "/c/l1.jpeg",
+        "localImage": "assets/original/804efb17add52f55.jpeg"
+      },
+      {
+        "name": "logo",
+        "image": "https://www.web3carnival.world/c/logo.jpg",
+        "url": "/c/logo.jpg",
+        "localImage": "assets/original/d4c9f4118c36649b.jpg"
+      },
+      {
+        "name": "logo1",
+        "image": "https://www.web3carnival.world/c/logo1.jpg",
+        "url": "/c/logo1.jpg",
+        "localImage": "assets/original/fd79fff950ccff89.jpg"
+      },
+      {
+        "name": "logo2",
+        "image": "https://www.web3carnival.world/c/logo2.jpg",
+        "url": "/c/logo2.jpg",
+        "localImage": "assets/original/df505543cd0191fa.jpg"
+      },
+      {
+        "name": "logo3",
+        "image": "https://www.web3carnival.world/c/logo3.png",
+        "url": "/c/logo3.png",
+        "localImage": "assets/original/cbf0074b9b9ff641.png"
+      },
+      {
+        "name": "logo6",
+        "image": "https://www.web3carnival.world/c/logo6.jpg",
+        "url": "/c/logo6.jpg",
+        "localImage": "assets/original/b47b52bfd4ec2513.jpg"
+      },
+      {
+        "name": "logo9",
+        "image": "https://www.web3carnival.world/c/logo9.png",
+        "url": "/c/logo9.png",
+        "localImage": "assets/original/a641a839b89ef7b7.png"
+      },
+      {
+        "name": "logo10",
+        "image": "https://www.web3carnival.world/c/logo10.png",
+        "url": "/c/logo10.png",
+        "localImage": "assets/original/f89750dd100f3497.png"
+      },
+      {
+        "name": "logo11",
+        "image": "https://www.web3carnival.world/c/logo11.jpg",
+        "url": "/c/logo11.jpg",
+        "localImage": "assets/original/b8a7e9e02f5f8d43.jpg"
+      },
+      {
+        "name": "m2",
+        "image": "https://www.web3carnival.world/c/m2.jpeg",
+        "url": "/c/m2.jpeg",
+        "localImage": "assets/original/a84fe1428ec8f28b.jpeg"
+      },
+      {
+        "name": "m3",
+        "image": "https://www.web3carnival.world/c/m3.jpeg",
+        "url": "/c/m3.jpeg",
+        "localImage": "assets/original/a83798a62456dcb7.jpeg"
+      },
+      {
+        "name": "n",
+        "image": "https://www.web3carnival.world/c/n.jpeg",
+        "url": "/c/n.jpeg",
+        "localImage": "assets/original/50cf5cff930091ee.jpeg"
+      },
+      {
+        "name": "pol",
+        "image": "https://www.web3carnival.world/c/pol.jpeg",
+        "url": "/c/pol.jpeg",
+        "localImage": "assets/original/70ef39965748e06b.jpeg"
+      },
+      {
+        "name": "true",
+        "image": "https://www.web3carnival.world/c/true.jpeg",
+        "url": "/c/true.jpeg",
+        "localImage": "assets/original/b1599d25aca7e5a8.jpeg"
+      },
+      {
+        "name": "tenacity",
+        "image": "https://storage.tally.so/private/Tenacity-Logo-White-Transparent.png?id=KpPQB8&accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IktwUFFCOCIsImZvcm1JZCI6Im1WUU5kdiIsImlhdCI6MTY5NzUzMzk1NX0.KL8FZmpu_wECFsIE_u8N_NtTVCfrHgI-KUDEg7dHUaQ&signature=6f9efaefb8f34c60a18dcddef5082982911e9c127012e7e6ee835286577e2509",
+        "url": "https://tenacity.social/",
+        "localImage": "assets/original/9ad78865054fc7b3.png"
+      },
+      {
+        "name": "actualone",
+        "image": "https://www.web3carnival.world/_next/static/media/actualone.9f4deed1.jpg",
+        "url": "https://www.actualone.xyz/",
+        "localImage": "assets/original/42ee076b68c0a82f.jpg"
+      },
+      {
+        "name": "macha",
+        "image": "https://www.web3carnival.world/_next/static/media/macha.27c388fd.png",
+        "url": "https://www.macha.ai/",
+        "localImage": "assets/original/c465b42df67327ea.png"
+      },
+      {
+        "name": "tribeacademy",
+        "image": "https://www.web3carnival.world/_next/static/media/tribeacademy.f21b89d5.png",
+        "url": "https://www.tribeacademy.in/",
+        "localImage": "assets/original/876c8c24ff58ba94.png"
+      },
+      {
+        "name": "tbc",
+        "image": "https://www.web3carnival.world/_next/static/media/tbc.efbce8df.png",
+        "url": "https://mastersunion.org/thirdblockcommunity",
+        "localImage": "assets/original/e589f1f8e8a10999.png"
+      },
+      {
+        "name": "web3jh",
+        "image": "https://www.web3carnival.world/_next/static/media/web3jh.89023689.png",
+        "url": "https://web3jharkhand.github.io/web3jh/",
+        "localImage": "assets/original/2c5f90272b423237.png"
+      },
+      {
+        "name": "chillin",
+        "image": "https://www.web3carnival.world/_next/static/media/chillin.70d9dbc1.jpeg",
+        "url": "https://chillinq.com/",
+        "localImage": "assets/original/c1daca136406c737.jpeg"
+      },
+      {
+        "name": "chainrisk",
+        "image": "https://www.web3carnival.world/_next/static/media/chainrisk.0521d62e.png",
+        "url": "https://www.chainrisk.cloud/",
+        "localImage": "assets/original/f4155afa30e5f342.png"
+      },
+      {
+        "name": "draper",
+        "image": "https://www.web3carnival.world/_next/static/media/draper.8490c9df.png",
+        "url": "https://linktr.ee/draperBLR",
+        "localImage": "assets/original/ae0d8b07bfc13503.png"
+      },
+      {
+        "name": "startupnews",
+        "image": "https://www.web3carnival.world/_next/static/media/startupnews.f59e0b82.png",
+        "url": "https://startupnews.fyi/",
+        "localImage": "assets/original/b1759919c82cd99b.png"
+      }
+    ]
+  },
+  {
+    "title": "Past Media Partners",
+    "partners": [
+      {
+        "name": "BitcoinWorld",
+        "image": "https://www.web3carnival.world/_next/static/media/BitcoinWorld.48ad5898.png",
+        "url": "https://bitcoinworld.co.in/?ref=web3carnival",
+        "localImage": "assets/original/0072de3e64c3ca09.png"
+      },
+      {
+        "name": "cryptotale",
+        "image": "https://www.web3carnival.world/m/cryptotale.png",
+        "url": "/m/cryptotale.png",
+        "localImage": "assets/original/06c7cce5bdb16b9a.png"
+      },
+      {
+        "name": "incrypted",
+        "image": "https://www.web3carnival.world/m/incrypted.svg",
+        "url": "/m/incrypted.svg",
+        "localImage": "assets/original/d242e1c5eecf7c71.svg"
+      },
+      {
+        "name": "mirchmedia",
+        "image": "https://www.web3carnival.world/m/mirchmedia.png",
+        "url": "/m/mirchmedia.png",
+        "localImage": "assets/original/b3cd69a342c7b167.png"
+      },
+      {
+        "name": "museigen",
+        "image": "https://www.web3carnival.world/m/museigen.webp",
+        "url": "/m/museigen.webp",
+        "localImage": "assets/original/e845cb0f01433a97.webp"
+      },
+      {
+        "name": "zexprwire",
+        "image": "https://www.web3carnival.world/m/zexprwire.jpg",
+        "url": "/m/zexprwire.jpg",
+        "localImage": "assets/original/551ac895194f23fb.jpg"
+      },
+      {
+        "name": "CoinsCapture",
+        "image": "https://www.web3carnival.world/_next/static/media/CoinsCapture.77a514ee.svg",
+        "url": "https://coinscapture.com/?ref=web3carnival",
+        "localImage": "assets/original/971e4a6bba95ca73.svg"
+      },
+      {
+        "name": "forweb3",
+        "image": "https://www.web3carnival.world/_next/static/media/forweb3.e66fb796.png",
+        "url": "https://forwebthree.com/?ref=web3carnival",
+        "localImage": "assets/original/926891f8839e2e31.png"
+      },
+      {
+        "name": "newscrypto",
+        "image": "https://www.web3carnival.world/_next/static/media/newscrypto.fcb21a41.png",
+        "url": "https://thenewscrypto.com/?ref=web3carnival",
+        "localImage": "assets/original/493f17682bdf1997.png"
+      },
+      {
+        "name": "voice of crypto",
+        "image": "https://www.web3carnival.world/_next/static/media/voiceofcrypto.6825b0cd.png",
+        "url": "https://voiceofcrypto.online/?ref=web3carnival",
+        "localImage": "assets/original/342a970d20d3783a.png"
+      },
+      {
+        "name": "CryptoNewsZ",
+        "image": "https://www.web3carnival.world/_next/static/media/CryptoNewsZ.d37432bc.svg",
+        "url": "https://www.cryptonewsz.com/",
+        "localImage": "assets/original/356ea13e6085e6d4.svg"
+      },
+      {
+        "name": "coingabbar",
+        "image": "https://www.web3carnival.world/_next/static/media/coingabbar.9dfbd7e3.png",
+        "url": "https://www.coingabbar.com/",
+        "localImage": "assets/original/a1a6d6c120e46307.png"
+      },
+      {
+        "name": "droomdroomr",
+        "image": "https://www.web3carnival.world/_next/static/media/droom.b25e26b3.png",
+        "url": "https://droomdroom.com/",
+        "localImage": "assets/original/0974e1288775a62e.png"
+      },
+      {
+        "name": "klarda",
+        "image": "https://www.web3carnival.world/_next/static/media/klarda.78d621ef.png",
+        "url": "https://klarda.com/",
+        "localImage": "assets/original/3fe4f526995b50bc.png"
+      },
+      {
+        "name": "blockopedia",
+        "image": "https://www.web3carnival.world/_next/static/media/blockopedia.e6c6c902.png",
+        "url": "https://www.linkedin.com/company/theblockopediaofficial",
+        "localImage": "assets/original/afa92660cb3ed515.png"
+      },
+      {
+        "name": "ktro",
+        "image": "https://www.web3carnival.world/_next/static/media/ktro.f2df4cfb.png",
+        "url": "http://ktromedia.com/",
+        "localImage": "assets/original/d7785666718f8ac2.png"
+      },
+      {
+        "name": "utoday",
+        "image": "https://www.web3carnival.world/_next/static/media/utoday.a9ad60ab.png",
+        "url": "https://u.today/",
+        "localImage": "assets/original/9918cd4c46285657.png"
+      },
+      {
+        "name": "fintech24",
+        "image": "https://www.web3carnival.world/_next/static/media/fintech24.1669c43b.png",
+        "url": "https://fintech24h.com/",
+        "localImage": "assets/original/5c17383134f7dc25.png"
+      },
+      {
+        "name": "cryptotimes",
+        "image": "https://www.web3carnival.world/_next/static/media/cryptotimes.a4cb257e.svg",
+        "url": "https://www.cryptotimes.io/",
+        "localImage": "assets/original/57376445b11c7f67.svg"
+      },
+      {
+        "name": "coinedition",
+        "image": "https://www.web3carnival.world/_next/static/media/coinedition.41ee4110.png",
+        "url": "https://coinedition.com/",
+        "localImage": "assets/original/3033f3ae40e0a3b8.png"
+      },
+      {
+        "name": "cryptonite",
+        "image": "https://www.web3carnival.world/_next/static/media/cryptonite.9d281d11.png",
+        "url": "https://www.cryptonite.ae/",
+        "localImage": "assets/original/2b21ddd4c1e3fc95.png"
+      },
+      {
+        "name": "kanalcoin",
+        "image": "https://www.web3carnival.world/_next/static/media/kanalcoin.71d88159.png",
+        "url": "https://www.kanalcoin.com/",
+        "localImage": "assets/original/f53d350d0cf7b827.png"
+      },
+      {
+        "name": "coinspedia",
+        "image": "https://www.web3carnival.world/_next/static/media/coinspedia.c82d6a72.png",
+        "url": "https://coinpedia.org/",
+        "localImage": "assets/original/c1d5424660b09556.png"
+      },
+      {
+        "name": "icoholder",
+        "image": "https://www.web3carnival.world/_next/static/media/icoholder.ce2201e7.png",
+        "url": "https://icoholder.com/",
+        "localImage": "assets/original/6e91cf4f0d60ce32.png"
+      }
+    ]
+  }
+]
