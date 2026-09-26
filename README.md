@@ -24,6 +24,14 @@ The feature views below show the homepage journey beyond the opening: next-editi
 
 ![Get involved: switch between builders, founders, investors, and curious newcomers](screenshots/pages/involved.jpg)
 
+The “Join the carnival” preview continues the journey with a three-step flow for choosing a visitor route, reviewing details, and creating a personal passport. It is a local prototype, not a ticket purchase or submitted registration.
+
+![Registration preview: choose a Builder, Founder, Investor, or Explorer route before continuing](screenshots/pages/registration-route.jpg)
+
+The closing section resolves the page with one final invitation and clear links into the wider community.
+
+![Closing invitation: “The future has room for you” with a direct Join the carnival action](screenshots/pages/final-invitation.jpg)
+
 ### Past events — the archive
 
 ![Past events page: edition filters and scrapbook cards featuring event artwork](screenshots/pages/events.jpg)
