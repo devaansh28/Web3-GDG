@@ -14,9 +14,19 @@ The homepage sets the visual language and brings the event into focus with a fin
 
 **Distinctive UI:** dimensional photo collage; staggered hero assembly with replay control; looping ticker; scroll-aware active navigation; next-edition status card; track selection that stamps a personal Carnival Passport; saved-in-browser interests; expandable speaker directory and profile dialogs; location-filtered horizontal event rail; theme toggle; role-based community tabs; FAQ disclosures; privacy and credits panel.
 
+The feature views below show the homepage journey beyond the opening: next-edition context, the assembled scrapbook community, interest-based passport, and role-specific ways to take part.
+
+![Experience section: next-edition card and source-attributed community figures](screenshots/pages/experience.jpg)
+
+![Community story: documentary gathering photography and the invitation to find your community](screenshots/pages/community.jpg)
+
+![Interactive Carnival Passport: selected tracks become a personal route](screenshots/pages/passport.jpg)
+
+![Get involved: switch between builders, founders, investors, and curious newcomers](screenshots/pages/involved.jpg)
+
 ### Past events — the archive
 
-![Past events page: editorial archive heading, search and location filters, and illustrated event cards](screenshots/pages/events.jpg)
+![Past events page: edition filters and scrapbook cards featuring event artwork](screenshots/pages/events.jpg)
 
 The archive brings together all 14 public past-event listings found on the original website. Search by event, date, or city, then narrow the archive by India, Singapore, or Dubai. Each card retains its source-listed details and destination link.
 
@@ -24,7 +34,7 @@ The archive brings together all 14 public past-event listings found on the origi
 
 ### Past speakers — people behind the conversations
 
-![Past speakers page: searchable 69-person directory with portrait-led cards](screenshots/pages/speakers.jpg)
+![Past speakers page: searchable directory with taped portrait cards and historical roles](screenshots/pages/speakers.jpg)
 
 Browse the 69 people listed in the original public speaker archive. Roles and locations are presented as historical source listings, not current endorsements.
 
